@@ -69,10 +69,6 @@ function App() {
           onDelete={removeProduct}
         />
       )}
-
-      <footer className="py-10 text-center text-sm text-slate-400">
-        Made by Fabia, Dan Lawrence C. · INF232
-      </footer>
     </div>
   );
 }

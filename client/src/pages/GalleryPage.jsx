@@ -8,7 +8,7 @@ function GalleryPage({ products, loading }) {
          Product Gallery
 </p>
 <h2 className="mt-3 text-4xl font-bold md:text-5xl">Discover Our Products</h2>
-<p className="mt-3 text-white/80">{products.length} items available by [Fabia, Dan Lawrence C.]</p>
+<p className="mt-3 text-white/80">{products.length} items available by Maglaque, Fidelis May M.</p>
 </section>
      {loading ? (
 <p className="py-20 text-center text-slate-400">Loading products...</p>
